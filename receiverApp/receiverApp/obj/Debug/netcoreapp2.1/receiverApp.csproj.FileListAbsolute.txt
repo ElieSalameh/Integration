@@ -1,0 +1,11 @@
+C:\Users\Elie - Laptop\source\repos\receiverApp\receiverApp\bin\Debug\netcoreapp2.1\receiverApp.deps.json
+C:\Users\Elie - Laptop\source\repos\receiverApp\receiverApp\bin\Debug\netcoreapp2.1\receiverApp.runtimeconfig.json
+C:\Users\Elie - Laptop\source\repos\receiverApp\receiverApp\bin\Debug\netcoreapp2.1\receiverApp.runtimeconfig.dev.json
+C:\Users\Elie - Laptop\source\repos\receiverApp\receiverApp\bin\Debug\netcoreapp2.1\receiverApp.dll
+C:\Users\Elie - Laptop\source\repos\receiverApp\receiverApp\obj\Debug\netcoreapp2.1\receiverApp.csprojAssemblyReference.cache
+C:\Users\Elie - Laptop\source\repos\receiverApp\receiverApp\obj\Debug\netcoreapp2.1\receiverApp.csproj.CoreCompileInputs.cache
+C:\Users\Elie - Laptop\source\repos\receiverApp\receiverApp\obj\Debug\netcoreapp2.1\receiverApp.AssemblyInfoInputs.cache
+C:\Users\Elie - Laptop\source\repos\receiverApp\receiverApp\obj\Debug\netcoreapp2.1\receiverApp.AssemblyInfo.cs
+C:\Users\Elie - Laptop\source\repos\receiverApp\receiverApp\bin\Debug\netcoreapp2.1\receiverApp.pdb
+C:\Users\Elie - Laptop\source\repos\receiverApp\receiverApp\obj\Debug\netcoreapp2.1\receiverApp.dll
+C:\Users\Elie - Laptop\source\repos\receiverApp\receiverApp\obj\Debug\netcoreapp2.1\receiverApp.pdb
